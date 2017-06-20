@@ -1,5 +1,5 @@
-# quantify-strategy-manage
-Manage your quantization strategy
-View stock charts
-View the instance status
-Write Python online
+# quantify-strategy-manage<br>
+Manage your quantization strategy<br>
+View stock charts<br>
+View the instance status<br>
+Write Python online<br>
