@@ -1,9 +1,7 @@
-*Manage your quantization strategy
-View stock charts
-View the instance status
+*Manage your quantization strategy<br>
+View stock charts<br>
+View the instance status<br>
 Write Python online*
-
-**Upload and download course**
 
 **Scaffold**
 
